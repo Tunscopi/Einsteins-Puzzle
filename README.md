@@ -1,6 +1,8 @@
 # -Einsteins-Puzzle-
 Specman E constraint code for solving the so-called "Einstein Puzzle" or Zebra Puzzle
+
 Puzzle Wiki: https://en.wikipedia.org/wiki/Zebra_Puzzle
+
 The hashtags (#) refer to numbers from the original puzzle on wikipedia.
 
 
