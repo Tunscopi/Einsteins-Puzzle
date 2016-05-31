@@ -3,7 +3,10 @@ Specman E constraint code for solving the so-called "Einstein Puzzle" or Zebra P
 Puzzle Wiki: https://en.wikipedia.org/wiki/Zebra_Puzzle
 The hashtags (#) refer to numbers from the original puzzle on wikipedia.
 
+
+
 // Additional Constraints generation
+
 1) Color of house[0] is YELLOW
 - It can't be RED, as the ENGLISHMAN lives in RED (#2) and the NORWEGIAN lives in house[0].
 - It can't be BLUE as house[1] is the BLUE house (#15)
