@@ -58,7 +58,6 @@ extend sys {
 };
     
     run() is also {
-    	//print houses[idx];
     	for each (h) in houses {h.print_me()};
     }
 };
