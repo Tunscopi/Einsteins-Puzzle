@@ -7,6 +7,8 @@ The hashtags (#) refer to numbers from the original puzzle on wikipedia.
 
 
 
+
+
 // Additional Constraints generation
 
 1) Color of house[0] is YELLOW
