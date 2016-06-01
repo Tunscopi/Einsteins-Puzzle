@@ -38,5 +38,5 @@ The hashtags (#) refer to numbers from the original puzzle on wikipedia.
 - NORWEGIAN lives in house[0], ENGLISHMAN lives in RED house(#2) but house[1] is BLUE, SPANISH man owns DOG(#3) but HORSES are in house[1]
 
 
-7-9) According to solutions in (1) above IVORY and GREEN positions in house[2], house[3] and house[3], house[4] positions are proven. Also, RED therefore can only be in house[2] or house[4] as it can't possibly be in house[3] because it will then be impossible for GREEN to be to the immediate right of IVORY. 
+7-9) According to solutions in (1) above IVORY and GREEN are either in house[2], house[3] and house[3], house[4] positions. Also, RED therefore can only be in house[2] or house[4] as it can't possibly be in house[3] because it will then be impossible for GREEN to be to the immediate right of IVORY. 
 
