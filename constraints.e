@@ -23,15 +23,15 @@ extend neighborhood_s {
          (house.cigarettes == CHESTERFIELD) => (houses[index+1].pet == FOX || houses[index-1].pet == FOX); //11 
          
          // Additional constraints (explanation in ReadMe)
-         //(index == 0) => house.color == YELLOW;
-         //(index == 0) => house.cigarettes == KOOL;
-         //(index == 1) => house.pet == HORSE;
-         //(index == 0) => house.drink == WATER;
-         //(index == 0) => (house.pet == FOX || house.pet == ZEBRA);
-         ///(index == 1) => (house.nationality == JAPANESE || house.nationality == UKRANIAN);
-         //(index == 2) => (house.color == IVORY || house.color == RED);
-         //(index == 3) => (house.color == IVORY || house.color == GREEN);
-         //(index == 4) => (house.color == GREEN || house.color == RED);
+         (index == 0) => house.color == YELLOW;
+         (index == 0) => house.cigarettes == KOOL;
+         (index == 1) => house.pet == HORSE;
+         (index == 0) => house.drink == WATER;
+         (index == 0) => (house.pet == FOX || house.pet == ZEBRA);
+         (index == 1) => (house.nationality == JAPANESE || house.nationality == UKRANIAN);
+         (index == 2) => (house.color == IVORY || house.color == RED);
+         (index == 3) => (house.color == IVORY || house.color == GREEN);
+         (index == 4) => (house.color == GREEN || house.color == RED);
      }
 	
 }
