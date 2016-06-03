@@ -45,7 +45,7 @@ extend sys {
     (house.cigarettes == KOOL) =>  (houses[index + 1].pet == HORSE ||  houses[index - 1].pet == HORSE);//12
     (house.cigarettes == CHESTERFIELD) =>  (houses[index + 1].pet == FOX ||  houses[index - 1].pet == FOX);//11
      
-     // Additional constraints
+     // Additional constraints (explanation in ReadMe)
      (index == 0) => house.color == YELLOW;
      (index == 0) => house.cigarettes == KOOL; 
      (index == 1) => house.pet == HORSE;
