@@ -1,5 +1,4 @@
 <'
-// Macro definition for Neighbour 
 
 //  Types and struct definitions
 type nationality_t : [ENGLISH, SPANISH, UKRANIAN, NORWEGIAN, JAPANESE];
