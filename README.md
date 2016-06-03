@@ -9,7 +9,7 @@ The hashtags (#) refer to numbers from the original puzzle on wikipedia.
 
 
 
-// Additional Constraints generation
+// Additional Constraints generation (In constraints.e file)
 
 1) Color of house[0] is YELLOW
 - It can't be RED, as the ENGLISHMAN lives in RED (#2) and the NORWEGIAN lives in house[0].
